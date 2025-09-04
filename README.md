@@ -5,7 +5,8 @@ This Power BI dashboard provides an interactive overview of global sales perform
 
 ![Global Sales Dashboard](images/photo1.png)
 
-** Key Features
+
+### Key Features
 
 KPI Cards - Highlighting Total Sales, Profit, and Profit Ratio.
 
@@ -24,7 +25,7 @@ Order Volume by Shipping Mode - Combo chart displaying both order volume and pro
 Sales by Segment - Pie chart illustrating contribution of Consumer, Corporate, and Home Office segments.
 
 
-🎯 Insights Gained
+### 🎯Insights Gained
 
 The majority of sales are concentrated in North America and Western Europe.
 
@@ -38,7 +39,9 @@ The Consumer segment is the largest contributor to overall sales.
 
 Sales over time reveal fluctuations rather than steady growth, highlighting the need for strategies that drive sustainable, long-term revenue increases instead of short-term spikes.
 
-⚙️ Technical Highlights
+
+
+### ⚙️Technical Highlights
 
 Built in Power BI Desktop using the Sample Superstore dataset.
 
