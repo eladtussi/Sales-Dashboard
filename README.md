@@ -5,7 +5,6 @@ This Power BI dashboard provides an interactive overview of global sales perform
 
 ![Global Sales Dashboard](images/photo1.png)
 
-
 ** Key Features
 
 KPI Cards - Highlighting Total Sales, Profit, and Profit Ratio.
