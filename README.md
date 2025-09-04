@@ -54,4 +54,10 @@ Used Conditional Formatting and Combo Charts for enhanced analytical depth.
 Optimized layout with consistent design and readability for business stakeholders.
 
 
+### 🔄 Data Modeling & ETL
+Cleaned and transformed raw datasets using Power Query to ensure accuracy and consistency. 
+
+Designed a star-schema data model with fact and dimension tables to optimize reporting and simplify DAX calculations.
+
+This structure improved both performance and scalability, enabling stakeholders to drill into insights quickly and reliably.
 
